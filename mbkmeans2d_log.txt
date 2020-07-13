@@ -1,0 +1,1 @@
+NMI to mini-batch kmeans is 0.310415058096. Time: 771.838588953 sec.

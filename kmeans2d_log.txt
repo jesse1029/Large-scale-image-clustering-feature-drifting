@@ -1,0 +1,1 @@
+NMI to kmeans is 0.19012051741. Time: 2814.411026 sec.
